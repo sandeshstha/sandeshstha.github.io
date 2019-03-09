@@ -1,2 +1,3 @@
 plugins:
   - jekyll-sitemap
+baseurl: "http://user.github.io/project-name"
