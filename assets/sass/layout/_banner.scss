@@ -4,7 +4,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("https://4.bp.blogspot.com/-ZxcQT5d4bZw/XHyYPdO87FI/AAAAAAAABHI/eGz5JLgOREgtGqPQW8EDWbfJ4Wg41xIaACLcBGAs/s640/nice.JPG")');
+		@include vendor('background-image', 'url("https://i.imgur.com/Y4avPcW.png")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
